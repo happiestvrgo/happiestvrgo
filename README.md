@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d24,50:14532d,100:0284c7&height=190&section=header&text=Ali%20Zaenal%20Abidin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Laravel%20%E2%80%A2%20Flutter%20%E2%80%A2%20IoT%20%26%20AI%20Integration&descAlignY=62&descSize=16" width="100%" alt="Header Ali Zaenal Abidin"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d24,50:14532d,100:0284c7&height=190&section=header&text=Ali%20Zaenal%20Abidin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%E2%80%A2%20Java%20%E2%80%A2%20Flutter&descAlignY=62&descSize=16" width="100%" alt="Header Ali Zaenal Abidin"/>
 
 <p>
   Mahasiswa <strong>Teknik Informatika</strong> di <strong>Politeknik Negeri Jember</strong> (Jember, Indonesia).<br>
-  Fokus pada pengembangan <strong>Backend Web (Laravel &amp; REST API)</strong>, <strong>Aplikasi Mobile (Flutter)</strong>, serta integrasi <strong>IoT &amp; Computer Vision</strong>.
+  Fokus pada pengembangan <strong>Web Backend (Laravel &amp; REST API)</strong>, <strong>Java</strong>, dan <strong>Aplikasi Mobile (Flutter)</strong>.
 </p>
 
 <p>
@@ -23,9 +23,9 @@
 ### Tentang Saya
 
 - Saat ini sedang menempuh studi di **Politeknik Negeri Jember** (Program Studi Teknik Informatika).
-- Terbiasa membangun layanan backend menggunakan **Laravel**, merancang **REST API**, mengelola database **MySQL / TiDB Cloud**, dan menulis pengujian otomatis dengan **PHPUnit**.
-- Tertarik menghubungkan sistem web dengan perangkat keras (**ESP32**), **Bot Telegram**, dan layanan AI (**ONNX Runtime** & **Gemini API**).
-- Terbuka untuk kolaborasi proyek, diskusi teknis, maupun kesempatan **magang / internship** di bidang Backend & Full-Stack Development.
+- Berpengalaman membangun aplikasi web dengan **Laravel (PHP)**, pemrograman **Java**, serta pengembangan aplikasi mobile menggunakan **Flutter (Dart)** dan database **MySQL**.
+- Tertarik pada perancangan **REST API** serta integrasi web dengan **IoT (ESP32)** dan **Bot Telegram**.
+- Terbuka untuk kolaborasi proyek, diskusi teknis, maupun kesempatan **magang / internship** di bidang Web, Backend, dan Mobile Development.
 
 ---
 
@@ -33,7 +33,7 @@
 
 | Bidang | Teknologi |
 | :--- | :--- |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,fastapi,docker" height="34" alt="Backend Stack"/> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql,python,docker" height="34" alt="Backend Stack"/> |
 | **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,tailwind" height="34" alt="Mobile & Frontend Stack"/> |
 | **Tools & IoT** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,arduino,cloudflare" height="34" alt="Tools Stack"/> |
 
