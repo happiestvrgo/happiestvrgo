@@ -24,7 +24,7 @@
 
 - Saat ini sedang menempuh studi di **Politeknik Negeri Jember** (Program Studi Teknik Informatika).
 - Berpengalaman membangun aplikasi web dengan **Laravel (PHP)**, pemrograman **Java**, serta pengembangan aplikasi mobile menggunakan **Flutter (Dart)** dan database **MySQL**.
-- Tertarik pada perancangan **REST API** serta integrasi web dengan **IoT (ESP32)** dan **Bot Telegram**.
+- Memiliki ketertarikan di bidang **AI Engineer**, mulai dari eksplorasi model AI hingga integrasinya ke dalam aplikasi web dan mobile.
 - Terbuka untuk kolaborasi proyek, diskusi teknis, maupun kesempatan **magang / internship** di bidang Web, Backend, dan Mobile Development.
 
 ---
