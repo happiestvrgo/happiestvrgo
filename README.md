@@ -4,7 +4,7 @@
 
 <p>
   Mahasiswa <strong>Teknik Informatika</strong> di <strong>Politeknik Negeri Jember</strong> (Jember, Indonesia).<br>
-  Fokus pada pengembangan <strong>Web (Laravel &amp; REST API)</strong>, pemrograman <strong>Java</strong>, dan <strong>Aplikasi Mobile (Flutter)</strong>.
+  Fokus pada pengembangan <strong>Web (Laravel)</strong>, pemrograman <strong>Python</strong>, <strong>Java</strong>, dan <strong>Dart (Flutter)</strong>.
 </p>
 
 <p>
@@ -23,9 +23,9 @@
 ### Tentang Saya
 
 - Saat ini sedang menempuh studi di **Politeknik Negeri Jember** (Program Studi Teknik Informatika).
-- Berpengalaman membangun aplikasi web dengan **Laravel (PHP)**, pemrograman **Java**, serta pengembangan aplikasi mobile menggunakan **Flutter (Dart)** dan database **MySQL**.
+- Berpengalaman membangun aplikasi web dengan **Laravel (PHP)**, pemrograman **Python**, **Java**, serta pengembangan aplikasi mobile menggunakan **Dart (Flutter)** dan database **MySQL**.
 - Memiliki ketertarikan di bidang **AI Engineer**, mulai dari eksplorasi model AI hingga integrasinya ke dalam aplikasi web dan mobile.
-- Terbuka untuk kolaborasi proyek, diskusi teknis, maupun kesempatan **magang / internship** di bidang Web, Backend, dan Mobile Development.
+- Terbuka untuk kolaborasi proyek, diskusi teknis, maupun kesempatan **magang / internship** di bidang Web, Mobile, dan AI Engineering.
 
 ---
 
