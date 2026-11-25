@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d24,50:14532d,100:0284c7&height=190&section=header&text=Ali%20Zaenal%20Abidin&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer%20%7C%20Laravel%20%E2%80%A2%20Java%20%E2%80%A2%20Flutter&descAlignY=62&descSize=16" width="100%" alt="Header Ali Zaenal Abidin"/>
+<img src="assets/header.svg" width="100%" alt="Ali Zaenal Abidin — Web & Mobile Developer"/>
 
 <p>
   Mahasiswa <strong>Teknik Informatika</strong> di <strong>Politeknik Negeri Jember</strong> (Jember, Indonesia).<br>
-  Fokus pada pengembangan <strong>Web Backend (Laravel &amp; REST API)</strong>, <strong>Java</strong>, dan <strong>Aplikasi Mobile (Flutter)</strong>.
+  Fokus pada pengembangan <strong>Web (Laravel &amp; REST API)</strong>, pemrograman <strong>Java</strong>, dan <strong>Aplikasi Mobile (Flutter)</strong>.
 </p>
 
 <p>
