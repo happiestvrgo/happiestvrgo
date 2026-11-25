@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg?v=4" width="100%" alt="Ali Zaenal Abidin Al Habsyie — Web & Mobile Developer"/>
+<img src="assets/profile-header.svg" width="100%" alt="Ali Zaenal Abidin Al Habsyie — Web & Mobile Developer"/>
 
 <p>
   Mahasiswa <strong>Teknik Informatika</strong> di <strong>Politeknik Negeri Jember</strong> (Jember, Indonesia).<br>
