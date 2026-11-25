@@ -43,22 +43,31 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/happiestvrgo/Chilivision-Semester5">ChiliVision — Smart Crop Monitoring</a></h4>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/happiestvrgo/Chilivision-Semester5">ChiliVision</a></h4>
       <p>
-        Sistem monitoring dan pengendalian penyakit tanaman cabai berbasis <strong>Laravel 13</strong>, <strong>TiDB Cloud</strong>, <strong>YOLOv8n &amp; CNN (ONNX)</strong>, <strong>Chatbot Gemini AI</strong>, <strong>Bot Telegram 2 arah</strong>, serta <strong>IoT ESP32</strong>.
+        Sistem monitoring &amp; pengendalian penyakit tanaman cabai berbasis <strong>Laravel 13</strong>, <strong>TiDB Cloud</strong>, <strong>YOLOv8n &amp; CNN</strong>, <strong>Gemini AI</strong>, <strong>Bot Telegram</strong>, dan <strong>ESP32</strong>.
       </p>
       <p>
-        <sub><strong>Peran:</strong> Backend Engineer (REST API, skema database, integrasi chatbot, Telegram &amp; scheduler otomatis)</sub>
+        <sub><strong>Stack:</strong> PHP, Laravel, Python, MySQL</sub>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4><a href="https://github.com/happiestvrgo/Footwear-Fusion_Mobile">Footwear Fusion Mobile</a></h4>
       <p>
-        Aplikasi mobile berbasis <strong>Flutter</strong> &amp; <strong>Dart</strong> yang dikembangkan sebagai proyek pengembangan aplikasi perangkat bergerak.
+        Aplikasi mobile e-commerce toko sepatu dengan fitur katalog, wishlist, keranjang, checkout, chat penjual, dan riwayat pesanan.
       </p>
       <p>
-        <sub><strong>Stack:</strong> Flutter, Dart, REST API</sub>
+        <sub><strong>Stack:</strong> Flutter, Dart, Provider, REST API</sub>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/happiestvrgo/JTIVoteApp">JTI Vote App</a></h4>
+      <p>
+        Aplikasi e-voting Android untuk pemilihan Kahim, Kahmjti, dan Kajur di Jurusan Teknologi Informasi Politeknik Negeri Jember.
+      </p>
+      <p>
+        <sub><strong>Stack:</strong> Android, Retrofit 2, Volley, REST API</sub>
       </p>
     </td>
   </tr>
