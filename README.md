@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Ali Zaenal Abidin — Web & Mobile Developer"/>
+<img src="assets/header.svg?v=3" width="100%" alt="Ali Zaenal Abidin Al Habsyie — Web & Mobile Developer"/>
 
 <p>
   Mahasiswa <strong>Teknik Informatika</strong> di <strong>Politeknik Negeri Jember</strong> (Jember, Indonesia).<br>
-  Fokus pada pengembangan <strong>Web (Laravel)</strong>, pemrograman <strong>Python</strong>, <strong>Java</strong>, dan <strong>Dart (Flutter)</strong>.
+  Fokus pada pengembangan <strong>Web (PHP &amp; Laravel)</strong>, pemrograman <strong>Python</strong>, dan <strong>Dart (Flutter)</strong>.
 </p>
 
 <p>
@@ -23,7 +23,7 @@
 ### Tentang Saya
 
 - Saat ini sedang menempuh studi di **Politeknik Negeri Jember** (Program Studi Teknik Informatika).
-- Berpengalaman membangun aplikasi web dengan **Laravel (PHP)**, pemrograman **Python**, **Java**, serta pengembangan aplikasi mobile menggunakan **Dart (Flutter)** dan database **MySQL**.
+- Berpengalaman membangun aplikasi web dengan **PHP (Laravel)**, pemrograman **Python**, serta pengembangan aplikasi mobile menggunakan **Dart (Flutter)** dan database **MySQL**.
 - Memiliki ketertarikan di bidang **AI Engineer**, mulai dari eksplorasi model AI hingga integrasinya ke dalam aplikasi web dan mobile.
 - Terbuka untuk kolaborasi proyek, diskusi teknis, maupun kesempatan **magang / internship** di bidang Web, Mobile, dan AI Engineering.
 
@@ -33,7 +33,7 @@
 
 | Bidang | Teknologi |
 | :--- | :--- |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,laravel,java,mysql,python,docker" height="34" alt="Backend Stack"/> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,fastapi,docker" height="34" alt="Backend Stack"/> |
 | **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,tailwind" height="34" alt="Mobile & Frontend Stack"/> |
 | **Tools & IoT** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,arduino,cloudflare" height="34" alt="Tools Stack"/> |
 
