@@ -33,7 +33,7 @@
 
 | Bidang | Teknologi |
 | :--- | :--- |
-| **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,fastapi,docker" height="34" alt="Backend Stack"/> |
+| **Backend & Database** | <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,firebase,docker" height="34" alt="Backend Stack"/> |
 | **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,tailwind" height="34" alt="Mobile & Frontend Stack"/> |
 | **Tools & IoT** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,arduino,cloudflare" height="34" alt="Tools Stack"/> |
 
